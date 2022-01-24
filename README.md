@@ -1,2 +1,4 @@
 # Color-Picker
-Convinient color picker program. You can pick background and foreground color and check how it looks together.
+## Convinient color chooser program. 
+You can pick background and foreground color and check how it looks together.
+Launch .exe file or run-trough .py file.
